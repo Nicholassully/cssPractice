@@ -1,0 +1,104 @@
+.tree {
+  height: 0px;
+  width: 0px;
+  position: absolute;
+}
+
+#treeBase {
+  border-right: 150px solid transparent;
+  border-left: 150px solid transparent;
+  border-bottom: 150px solid green;
+  top: 250px;
+  left: 150px;
+}
+
+#treeBody {
+  border-right: 130px solid transparent;
+  border-left: 130px solid transparent;
+  border-bottom: 130px solid green;
+  top: 180px;
+  left: 168px;
+}
+
+#treeTop {
+  border-right: 110px solid transparent;
+  border-left: 110px solid transparent;
+  border-bottom: 110px solid green;
+  top: 119px;
+  left: 185px;
+}
+
+.star {
+  width: 50px;
+  height: 50px;
+  background: linear-gradient(to bottom right, gold, gold);
+  position: absolute;
+}
+
+#starOne {
+  top: 79px;
+  left: 270px;
+  transform: rotate(45deg);
+}
+
+#starTwo {
+  top: 80px;
+  left: 271px;
+}
+
+.bulbs {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: linear-gradient(to bottom right, red, yellow);
+  position: absolute;
+}
+
+#bulbOne {
+  top: 184px;
+  left: 264px;
+}
+
+#bulbTwo {
+  top: 248px;
+  left: 306px;
+}
+
+#bulbThree {
+  top: 271px;
+  left: 228px;
+}
+
+#bulbFour {
+  top: 340px;
+  left: 350px;
+}
+
+#bulbFive {
+  top: 312px;
+  left: 278px;
+}
+
+#bulbSix {
+  top: 339px;
+  left: 215px;
+}
+
+#log {
+  height: 80px;
+  width: 50px;
+  background-color: brown;
+  position: absolute;
+  top: 400px;
+  left: 275px;
+}
+
+#bucket {
+  height: 80px;
+  width: 80px;
+  background-color: red;
+  border-radius: 20%;
+  position: absolute;
+  top: 475px;
+  left: 260px;
+}

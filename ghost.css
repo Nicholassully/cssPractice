@@ -73,11 +73,11 @@ background-position: 0 0, 40px 60px, 130px 270px, 70px 100p
 
 #mouth{
   background: black;
-  width: 65px;
-  height: 50px;
+  width: 30px;
+  height: 30px;
   border-radius: 50%;
-  top: 215px;
-  left: 513px;
+  top: 201px;
+  left: 531px;
   position: absolute;
 }
 
